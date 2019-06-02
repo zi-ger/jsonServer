@@ -1,0 +1,28 @@
+{
+  "stones": [ 
+    {   "name": "amethyst",
+        "color": "violet",
+        "url": "https://geology.com/gemstones/amethyst/amethyst-crystals.jpg"
+    },
+    {   "name": "aquamarine",
+        "color": "cyan",
+        "url": "https://geology.com/minerals/photos/beryl-aquamarine-irocks.jpg"
+    },
+    {   "name": "goshenite",
+        "color": "colorless",
+        "url": "https://geology.com/minerals/photos/goshenite.jpg"
+    },
+    {   "name": "lapis lazuli",
+        "color": "blue",
+        "url": "https://geology.com/gemstones/lapis-lazuli/lazurite-crystal-irocks.jpg"
+    },
+    {   "name": "obsidian",
+        "color": "black",
+        "url": "https://geology.com/rocks/pictures/obsidian-380.jpg"
+    },
+    {   "name": "emerald",
+        "color": "green",
+        "url": "https://geology.com/gemstones/emerald/emerald-zambia.jpg"
+    }
+  ]
+}
